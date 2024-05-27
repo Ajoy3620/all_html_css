@@ -1,0 +1,33 @@
+.then{
+    background-color: bisque;
+    margin: 50px;
+    width: 200px;
+    height: 400px;
+}
+
+.okreport{
+    border-collapse: collapse;
+    border-color: blue;
+}
+.okreport tbody{
+    background-color: brown;
+    
+}
+
+.okreport
+    tbody tr td{
+        padding: 10px;
+
+    }
+    .okreport 
+    thead tr th{
+        padding: 10px;
+    }
+  .okreport thead{
+    background-color: blueviolet;
+    text-transform: uppercase;
+  }
+  .okreport tbody tr :nth-child(odd){
+    background-color: yellow;
+    color: green;
+}

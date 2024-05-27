@@ -1,0 +1,28 @@
+div{
+    width: 100px;
+    background-color: red;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition:width  2s;
+}
+.div1:hover{
+    width: 500px;
+    transition-timing-function: ease;
+}
+.div2:hover{
+    width: 500px;
+    transition-timing-function: linear;
+}
+.div3:hover{
+    width: 500px;
+    transition-timing-function: ease-in;
+}
+.div4:hover{
+    width: 500px;
+    transition-timing-function: ease-out;
+}
+.div5:hover{
+    width: 500px;
+    transition-timing-function: ease-in-out;
+}

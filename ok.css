@@ -1,0 +1,52 @@
+.headline{
+    background: rebeccapurple;
+    color: black;
+    font-family: arial black;
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+.menu{
+   
+    background: rgb(126, 153, 51);
+    color: rgb(155, 60, 60);
+    font-family: arial black;
+    font-size: 16px;
+    text-align: center;
+    padding: 30px;
+}
+.sidebar{
+    background: rgb(148, 1, 70);
+    color: rgb(0, 0, 0);
+    font-family: arial black;
+    font-size: 16px;
+    text-align: center;
+    padding: 30px;
+    float: left;
+    width: 400px;
+}
+.contentarea{
+    background: rgb(148, 1, 1);
+    color: rgba(255, 254, 254, 0.863);
+    font-family: arial black;
+    font-size: 16px;
+    text-align: center;
+    width: 700px;
+    float: right;
+    
+    
+}
+.footer{
+    background: rgb(2, 0, 1);
+    color: rgb(243, 235, 235);
+    font-family: arial black;
+    font-size: 16px;
+    text-align: center;
+    padding: 30px;
+}
+
+.country{
+      width: 700px;
+
+}

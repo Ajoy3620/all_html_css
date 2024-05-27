@@ -1,0 +1,9 @@
+.ok{
+    background: black;
+    width: 400px;
+    color: red;
+}
+.ok img{
+
+ max-width: 200%; 
+}
